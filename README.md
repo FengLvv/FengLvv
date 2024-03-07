@@ -6,4 +6,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FengLvv/FengLvv/output/github-contribution-grid-snake.svg">
 </picture>
 
-My portfolio at: [fenglvv@github.io](https://fenglvv.github.io/)https://fenglvv.github.io/
+My portfolio at: [https://fenglvv.github.io/](https://fenglvv.github.io/)
